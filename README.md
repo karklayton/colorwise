@@ -13,6 +13,8 @@ Backend runs the sampled Lab value against a database of resin composite shades 
 
 `Wix` Velo (frontend) · `Supabase` (`PostgreSQL` + Deno Edge Functions) · CIEDE2000 color-difference `algorithm`
 
+[Demo](./demo/demo.mp4)
+
 ## Outcome
 
 Bootstrapped, built and validated the shade-matching pipeline end to end, from image capture through color-space conversion to database matching. Didn't pursue further after being unable to raise funding for laboratory research.
