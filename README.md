@@ -1,5 +1,5 @@
 ## ColorWise
-CTO and co-founder for dental resin shade matching startup
+CTO and co-founder for dental resin shade matching startup.
 
 Built a web app that analyzes cross-polarized photos of teeth and matches the shade to the closest resin composite in a color database.
 
